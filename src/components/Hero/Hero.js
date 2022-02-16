@@ -10,7 +10,7 @@ const Hero = () => {
           <h1>Jasa Penerjemah</h1>
           <p>Jasa Penerjemah Resmi dan Tersumpah</p>
           <div className='btn-group'>
-            <a href='#'>
+            <a>
               <Link to='contact' className='color'>
                 Hubungi Kami
               </Link>
